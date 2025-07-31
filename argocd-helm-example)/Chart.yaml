@@ -1,0 +1,5 @@
+apiVersion: v2
+name: my-nginx-app
+description: A simple Nginx application Helm Chart for Argo CD
+version: 0.1.0 # Chart 版本
+appVersion: "1.0" # 應用程式版本
